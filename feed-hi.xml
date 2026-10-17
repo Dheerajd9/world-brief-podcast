@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>आज की खबरें · World Brief Hindi</title>
+    <link>https://daily-world-brief.github.io/world-brief-podcast/play.html</link>
+    <description>रोज़ की खबरें हिंदी में: भारत, अमेरिका और दुनिया। अर्जुन और मीरा।</description>
+    <language>hi</language>
+    <itunes:author>World Brief bot</itunes:author>
+    <itunes:image href="https://daily-world-brief.github.io/world-brief-podcast/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>आज की खबरें · Friday, 16 October 2026</title>
+      <description>Arjun &amp; Meera · Evening</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-16-hindi-evening.mp3" length="1244781" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-16-hindi-evening.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 23:27:56 +0000</pubDate>
+      <itunes:duration>155</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>आज की खबरें · Friday, 16 October 2026</title>
+      <description>Arjun &amp; Meera · Morning</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-16-hindi.mp3" length="3706797" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-16-hindi.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:43:04 +0000</pubDate>
+      <itunes:duration>463</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>आज की खबरें · Thursday, 15 October 2026</title>
+      <description>Arjun &amp; Meera · Morning</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-15-hindi.mp3" length="6376365" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-15-hindi.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 13:35:39 +0000</pubDate>
+      <itunes:duration>797</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>आज की खबरें · Wednesday, 14 October 2026</title>
+      <description>Arjun &amp; Meera · Evening</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-14-hindi-evening.mp3" length="1442541" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-14-hindi-evening.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 23:30:22 +0000</pubDate>
+      <itunes:duration>180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>आज की खबरें · Wednesday, 14 October 2026</title>
+      <description>Arjun &amp; Meera · Morning</description>
+      <enclosure url="https://daily-world-brief.github.io/world-brief-podcast/audio/2026-10-14-hindi.mp3" length="4142637" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-14-hindi.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 13:21:40 +0000</pubDate>
+      <itunes:duration>517</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
